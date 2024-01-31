@@ -1,7 +1,7 @@
 # REPIC, an R-ArcGIS-based model
 
-This repository includes R-ArcGIS and R-ArcGIS PRO interface toolboxes that facilitate the application of EPIC model simulations within the ArcGIS environment.
-The code is embedded and can also be also only in R Studio.
+This repository includes R-ArcGIS and R-ArcGIS Pro interface toolboxes that facilitate the application of EPIC0810 model simulations within the ArcGIS environment.
+The code is embedded and can also be used only in R Studio.
 
 ## Overview
 REPIC utilizes EPIC's capabilities while integrating seamlessly with ArcGIS, enhancing the user experience and providing a spatial context to simulation results.
