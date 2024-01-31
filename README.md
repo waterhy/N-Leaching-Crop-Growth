@@ -6,7 +6,7 @@ The code is embedded and can also be also only in R Studio.
 ## Overview
 REPIC utilizes EPIC's capabilities while integrating seamlessly with ArcGIS, enhancing the user experience and providing a spatial context to simulation results.
 
-If you use these tools or refer to the bias correction methods in your research, please cite the following papers:
+If you use these tools in your research, please cite the following papers:
 
 ### REPIC -- Historical Period -- Business as usual
 •	Lyra, A.; Loukas, A.; Sidiropoulos, P.; Tziatzios, G.; Mylopoulos, N. An Integrated Modeling System for the Evaluation of Water Resources in Coastal Agricultural Watersheds: Application in Almyros Basin, Thessaly, Greece. Water 2021, 13, 268. https://doi.org/10.3390/w13030268
