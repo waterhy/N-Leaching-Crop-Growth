@@ -11,12 +11,12 @@ If you use these tools in your research, please cite the following papers:
 ### REPIC -- Historical Period -- Business as usual
 •	Lyra, A.; Loukas, A.; Sidiropoulos, P.; Tziatzios, G.; Mylopoulos, N. An Integrated Modeling System for the Evaluation of Water Resources in Coastal Agricultural Watersheds: Application in Almyros Basin, Thessaly, Greece. Water 2021, 13, 268. https://doi.org/10.3390/w13030268
 
-### REPIC -- Historical Period -- Agronomic and Irrigation Scenarios
+### REPIC -- Agronomic and Irrigation Scenarios
 •	Lyra, A., Loukas, A., & Sidiropoulos, P. (2021). Impacts of irrigation and nitrate fertilization scenarios on groundwater resources quantity and quality of the Almyros Basin, Greece. Water Supply, 21(6), 2748-2759.https://doi.org/10.2166/ws.2021.097
 
 •	Lyra, A., Loukas, A., Sidiropoulos, P., Voudouris, K., & Mylopoulos, N. (2022). Integrated modeling of agronomic and water resources management scenarios in a degraded coastal watershed (Almyros Basin, Magnesia, Greece). Water, 14(7), 1086.https://doi.org/10.3390/w14071086
 
-### REPIC -- Historical Period and Climate Change
+### REPIC -- Climate Change -- Agronomic and Water Resources Management Scenarios
 •	Lyra, A., & Loukas, A. (2023). Simulation and Evaluation of Water Resources Management Scenarios Under Climate Change for Adaptive Management of Coastal Agricultural Watersheds. Water Resources Management, 37(6-7), 2625-2642.https://doi.org/10.1007/s11269-022-03392-x
 
 •	Lyra, A., Loukas, A., Sidiropoulos , P., & Vasiliades , L. (2024). Climate Change Impacts on Nitrate Leaching and Groundwater Nitrate Dynamics Using a Holistic Approach and Med‒CORDEX Climatic Models. Water. 2024, 16, x. https://doi.org/10.3390/xxxxx
