@@ -1,9 +1,10 @@
 # REPIC, an R-ArcGIS-based model
 
 This repository includes R-ArcGIS and R-ArcGIS Pro interface toolboxes that facilitate the application of EPIC0810 model simulations within the ArcGIS environment.
-The code is embedded and also the R scripts of the interface are in the folder R_Tool_Scripts of the present repository. 
+The code is embedded and also the R scripts of the interface are in the folder R_Tool_Scripts of the present repository.
 The EPIC0810 Editor, the EPIC0810 executable, and the relevant input files that the interface is compatible with, can be found at the original software's website.
-The updated interface is compatible with the newest R version.
+The run folder should be pasted to disk "C:\REPIC\EPIC0810", and the input data folders at "C:\REPIC\DATA\METEO", "C:\REPIC\DATA\SOIL", "C:\REPIC\DATA\CROPS". The results' folder can be created in any folder.
+The updated interface of this pre-release is compatible with the newest R version. 
 
 ## Overview
 REPIC utilizes EPIC's capabilities while integrating seamlessly with ArcGIS, enhancing the user experience and providing a spatial context to simulation results.
